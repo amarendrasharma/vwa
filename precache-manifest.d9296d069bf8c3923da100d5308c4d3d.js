@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vwa/css/about.caf2a0a0.css"
   },
   {
-    "revision": "92e9525b3c27558a6d8b",
+    "revision": "fa4b11ffed85931a461d",
     "url": "/vwa/css/app.5c9713c3.css"
   },
   {
-    "revision": "76e428da47f36455cdfa95f61897cf98",
+    "revision": "5b4383fb1df5affc221b4ea57c55e534",
     "url": "/vwa/index.html"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vwa/js/about.1404bb81.js"
   },
   {
-    "revision": "92e9525b3c27558a6d8b",
-    "url": "/vwa/js/app.33ce927f.js"
+    "revision": "fa4b11ffed85931a461d",
+    "url": "/vwa/js/app.01518bd7.js"
   },
   {
-    "revision": "0fa87c7e8ce68836b3d9",
-    "url": "/vwa/js/chunk-vendors.d227df2c.js"
+    "revision": "36df8b6b496f454b77c0",
+    "url": "/vwa/js/chunk-vendors.4e56b246.js"
   },
   {
     "revision": "bce9a6386358acff4b20d415334d0d28",
